@@ -1,0 +1,3 @@
+# django
+
+learning django 😄
