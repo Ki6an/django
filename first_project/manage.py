@@ -20,3 +20,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+# (venv) C: \Users\KIRAN\Desktop\Django\django > python - m django startproject
