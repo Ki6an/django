@@ -20,5 +20,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-# this is just to check the changes in the git 
