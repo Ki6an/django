@@ -11,7 +11,7 @@ posts = [
         'date_posted': '1 jan, 2077'
     },
     {
-        'author': 'xeno',
+        'author': 'xino',
         'title': 'blog 4',
         'content': 'content 8',
         'date_posted': '8 aug, 5064'
