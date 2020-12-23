@@ -14,8 +14,14 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.contrib import admin
-from django.urls import path
+from django.urls import path, include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('', include('blog.urls')),
+
+    # to make the blog name as the home page instead of being on another page
+    # make the route empty
 ]
+
+# (venv) C: \Users\KIRAN\Desktop\Django\django\first_project > python manage.py startapp blog
