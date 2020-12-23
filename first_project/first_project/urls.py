@@ -24,4 +24,3 @@ urlpatterns = [
     # make the route empty
 ]
 
-# (venv) C: \Users\KIRAN\Desktop\Django\django\first_project > python manage.py startapp blog
